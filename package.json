@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/imdivin/mugilu/issues"
   },
-  "homepage": "https://github.com/imdivin/mugilu#readme"
+  "homepage": "https://github.com/imdivin/mugilu#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
