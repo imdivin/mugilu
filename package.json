@@ -1,0 +1,24 @@
+{
+  "name": "mugilu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdivin/mugilu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imdivin/mugilu/issues"
+  },
+  "homepage": "https://github.com/imdivin/mugilu#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

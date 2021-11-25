@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gold;
+}
+
+.navbar{
+    background-color: rgb(23, 36, 23) !important;
+    font-family: helvetica;
+    box-shadow: 0px 2px 5px rgb(67,63,40);
+}
+
+.nav-link{
+    font-size: 20px; 
+    font-style:oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(95,91,56) !important;
+}
+
+.footer{
+    font-size: 10px;
+    color: aliceblue;
+}
+
+hr{
+    color: rgb(67,63,40);
+}
